@@ -29,6 +29,8 @@ CREATE TABLE student(
     phoneno numeric(10)
     );
 ```
+
+
 ### OUTPUT:
 
 ![image](https://github.com/MIRUDHULA-DHANARAJ/G2_DBMS/assets/94828147/a0ddd93d-ee20-467c-bc16-09b150f263fe)
